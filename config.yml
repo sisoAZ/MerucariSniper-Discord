@@ -1,0 +1,8 @@
+timespan: 30 #(分単位)
+
+#include_text:
+#  - test
+#  - test2
+
+include_text:
+exclude_text:
