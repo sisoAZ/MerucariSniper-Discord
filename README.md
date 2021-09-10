@@ -4,3 +4,5 @@ Replit.comで動作させることを想定して作成
 replit.com、uptimerbot.comのアカウントとDiscordのwebhookが必要
 <br>
 使い方: https://youtu.be/Z_QOecMyMn0
+<br>
+別ブランチにLinuxバージョンも置いているので使いたい方はそちらもどうぞ
